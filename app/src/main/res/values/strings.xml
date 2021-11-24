@@ -6,4 +6,6 @@
     <string name="first_activity">First Activity</string>
     <string name="third_activity">Third Activity</string>
     <string name="second_activity">Second Activity</string>
+    <string name="about_text">aaa</string>
+    <string name="toabout">about</string>
 </resources>
